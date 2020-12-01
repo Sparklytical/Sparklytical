@@ -17,12 +17,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2020 - 29 November, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
-TypeScript   15 hrs 10 mins  ██████████████▓░░░░░░░░░░   58.26 % 
-JSON         3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-JavaScript   2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-HTML         1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Other        1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+TypeScript   14 hrs 22 mins  ██████████████████▓░░░░░░   74.16 % 
+JSON         1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Other        1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Text         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 <!--END_SECTION:waka-->
