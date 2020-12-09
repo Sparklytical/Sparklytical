@@ -17,9 +17,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
-Bash         11 mins         ███████████████▓░░░░░░░░░   63.05 % 
-JavaScript   5 mins          ████████░░░░░░░░░░░░░░░░░   31.62 % 
+TypeScript   31 mins         ████████████████▓░░░░░░░░   67.10 % 
+Bash         11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+JSON         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 ```
 <!--END_SECTION:waka-->
