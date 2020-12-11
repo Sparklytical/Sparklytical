@@ -17,7 +17,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
 TypeScript   31 mins         ████████████████▓░░░░░░░░   67.10 % 
 Bash         11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
