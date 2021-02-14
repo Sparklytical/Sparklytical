@@ -259,7 +259,7 @@
   <b>   95</b> repositories starred
   <b>   14</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">sparklytical@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 63 repositories - 264 MB
+<div class="stdin"><span class="ps1-path">sparklytical@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 63 repositories - 265 MB
 -r--  <b>   52</b>  stargazers
 -r--  <b>   20</b>  forks
 -r--  <b>   24</b>  watchers
