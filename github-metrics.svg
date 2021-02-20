@@ -256,10 +256,10 @@
 <b>Tracked activity</b>
   <b>   14</b> users followed
   <b>    0</b> repositories sponsored
-  <b>   97</b> repositories starred
+  <b>   98</b> repositories starred
   <b>   14</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">sparklytical@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 63 repositories - 265 MB
+<div class="stdin"><span class="ps1-path">sparklytical@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 63 repositories - 266 MB
 -r--  <b>   54</b>  stargazers
 -r--  <b>   21</b>  forks
 -r--  <b>   24</b>  watchers
