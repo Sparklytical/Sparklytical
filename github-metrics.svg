@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="535" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="540" class="">
   
 
   <defs><style>@font-face {
@@ -28,8 +28,6 @@
 
 /* Title bar */
   .header {
-    position: absolute;
-    top: 0;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -77,9 +75,10 @@
   }
   pre {
     background: #42092B;
-    margin-top: 16px;
     padding: 12px;
     border-radius: 5px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
   }
   .banner, footer {
     color: #AE9DA7;
